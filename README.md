@@ -25,6 +25,12 @@ The system manages teams, drivers, crew members, cars, sponsors, tracks, race ev
 - ER Modeling
 - draw.io
 
+## ER Diagram
+
+![Apex Racing ER Diagram](docs/er-diagram.svg)
+
+The editable diagrams.net source is also included at `docs/apex-racing-er-diagram.drawio`.
+
 ## Database Structure
 
 The database includes the following main entities:
