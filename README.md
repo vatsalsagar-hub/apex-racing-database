@@ -70,7 +70,14 @@ apex-racing-database/
 │   ├── stored-procedures.sql
 │   └── tests.sql
 └── docs/
+    └── Apex_Racing_CIS245_Final.pdf
 ```
+
+## Full Project Documentation
+
+The complete project report, including the database design, data dictionary, SQL implementation, views, and stored procedures, is available here:
+
+[View the full project PDF](docs/Apex_Racing_CIS245_Final.pdf)
 
 ## About
 
